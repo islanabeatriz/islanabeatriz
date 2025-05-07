@@ -19,8 +19,8 @@
 
 ---
 
-<p align=""> How to reach me 📫 </p>
-<p align="left">
+<p align="center"> How to reach me 📫 </p>
+<p align="center">
   <a href="https://www.linkedin.com/in/islana-beatriz-039582327/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
