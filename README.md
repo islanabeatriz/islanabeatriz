@@ -5,8 +5,7 @@
 - 📫 How to reach me: islanacarvalho07@gmail.com
 - 🧛🏾‍♀️ Pronouns: she/her
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islanabeatriz&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=islanabeatriz&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/>
 </p>
   <div style="display: inline_block"><br>
