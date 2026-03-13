@@ -35,6 +35,11 @@ Junior backend developer focused on **Java + Spring Boot**, building secure and 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=islanabeatriz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
+
+## Snake Game (Contributions)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/islanabeatriz/islanabeatriz/output/snake.svg" alt="Snake animation"/>
+</p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islanabeatriz&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
