@@ -1,4 +1,4 @@
-## Hi i'm Islana Beatriz
+## Hi i'm Islana Carvalho
 
 - 🔭 I’m currently working on back-and
 - 🌱 I’m currently learning Java and Spinbot  
