@@ -6,12 +6,6 @@ Junior backend developer focused on **Java + Spring Boot**, building secure and 
 - 🌱 Learning Java, Spring Boot, SQL, and software testing
 - 🎯 Goal: grow as a backend developer and ship reliable, clean code
 
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=islanabeatriz&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/>
-</p>
-
 ## Tech Stack
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
