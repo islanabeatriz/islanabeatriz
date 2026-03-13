@@ -49,7 +49,6 @@ Junior backend developer focused on **Java + Spring Boot**, building secure and 
 ---
 
 ## Contact
-<p align="center">How to reach me 📫</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/islana-beatriz-039582327/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
