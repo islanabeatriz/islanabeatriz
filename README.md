@@ -7,37 +7,28 @@ Junior backend developer focused on **Java + Spring Boot**, building secure and 
 - 🎯 Goal: grow as a backend developer and ship reliable, clean code
 
 ## Tech Stack
-  <p align="left">
-    <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/
-  devicons/devicon/icons/java/java-plain.svg">
-    <img alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/
-  devicons/devicon/icons/spring/spring-original.svg">
-    <img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/
-  gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img alt="JUnit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/
-  devicons/devicon/icons/junit/junit-original.svg">
-    <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/
-  devicons/devicon/icons/git/git-original.svg">
-    <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/
-  devicons/devicon/icons/docker/docker-original.svg">
+  <p>
+    <img alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg?raw=true">
+    <img alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg?raw=true">
+    <img alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg?raw=true">
+    <img alt="JUnit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg?raw=true">
+    <img alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?raw=true">
+    <img alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg?raw=true">
   </p>
 
   ## Languages I Use
-  <p align="left">
+  <p>
     <a href="https://www.python.org/">
-      <img alt="Python" height="32" width="42" src="https://cdn.jsdelivr.net/gh/
-  devicons/devicon/icons/python/python-original.svg">
+      <img alt="Python" height="32" width="42" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true">
     </a>
     <a href="https://www.java.com/">
-      <img alt="Java" height="32" width="42" src="https://cdn.jsdelivr.net/gh/
-  devicons/devicon/icons/java/java-original.svg">
+      <img alt="Java" height="32" width="42" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg?raw=true">
     </a>
     <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-      <img alt="JavaScript" height="32" width="42" src="https://
-  cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-
-  original.svg">
+      <img alt="JavaScript" height="32" width="42" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true">
     </a>
   </p>
+
 
 
 ---
