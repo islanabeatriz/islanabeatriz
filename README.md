@@ -7,7 +7,7 @@ Junior backend developer focused on **Java + Spring Boot**, building secure and 
 - 🎯 Goal: grow as a backend developer and ship reliable, clean code
 
 ## Tech Stack
- <p>
+  <p>
     <img alt="Java" height="30" width="40" src="https://
   raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img alt="Spring" height="30" width="40" src="https://
@@ -26,26 +26,25 @@ Junior backend developer focused on **Java + Spring Boot**, building secure and 
   original.svg">
   </p>
 
-
-## Languages I Use
-<p>
-    <a href="https://www.python.org/" target="_blank" rel="noopener">
+  ## Languages I Use
+  <p>
+    <a href="https://www.python.org/">
       <img alt="Python" height="32" width="42" src="https://
   raw.githubusercontent.com/devicons/devicon/master/icons/python/python-
   original.svg">
     </a>
-    <a href="https://www.java.com/" target="_blank" rel="noopener">
+    <a href="https://www.java.com/">
       <img alt="Java" height="32" width="42" src="https://
   raw.githubusercontent.com/devicons/devicon/master/icons/java/java-
   original.svg">
     </a>
-    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"
-  rel="noopener">
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript">
       <img alt="JavaScript" height="32" width="42" src="https://
   raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-
   original.svg">
     </a>
   </p>
+
 
 ---
 
