@@ -27,6 +27,9 @@ Junior backend developer focused on **Java + Spring Boot**, building secure and 
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener">
     <img alt="JavaScript" height="32" width="42" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true">
   </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener">
+    <img alt="CSS" height="32" width="42" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg?raw=true">
+  </a>
 </p>
 
 ---
