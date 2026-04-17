@@ -7,27 +7,27 @@ Junior backend developer focused on **Java + Spring Boot**, building secure and 
 - 🎯 Goal: grow as a backend developer and ship reliable, clean code
 
 ## Tech Stack
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="JUnit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
+<p align="left">
+  <img alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg?raw=true">
+  <img alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg?raw=true">
+  <img alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg?raw=true">
+  <img alt="JUnit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg?raw=true">
+  <img alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?raw=true">
+  <img alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg?raw=true">
+</p>
 
 ## Languages I Use
-<div style="display: inline_block">
+<p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noopener">
-    <img align="center" alt="Python" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img alt="Python" height="32" width="42" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true">
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noopener">
-    <img align="center" alt="Java" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="Java" height="32" width="42" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg?raw=true">
   </a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener">
-    <img align="center" alt="JavaScript" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img alt="JavaScript" height="32" width="42" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true">
   </a>
-</div>
+</p>
 
 ---
 
